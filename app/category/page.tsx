@@ -15,7 +15,7 @@ const page = () => {
         "Perfect Fit for Every Move"</h1>
        
       </div>
-      <p className="lg:w-1/2 w-full leading-relaxed text-gray-900 font-serif">Siddnom Jeans offers a range of styles crafted for every lifestyle—whether you need rugged durability or sleek urban design.Explore our categories to find the perfect fit that’s as bold and versatile as you are.</p>
+      <p className="lg:w-1/2 w-full leading-relaxed text-gray-900 font-serif">Siddnom Jeans offers a range of styles crafted for every lifestyle whether you need rugged durability or sleek urban design.Explore our categories to find the perfect fit that&apos;s as bold and versatile as you are.</p>
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="xl:w-1/4 md:w-1/2 p-4">
