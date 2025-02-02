@@ -47,7 +47,7 @@ const page = () => {
         <Image className="rounded  object-cover object-center mb-6" src="/images/straightleg.jpg" alt="slimfit" height={40} width={250}/>
           <h2 className="tracking-widest text-indigo-500 text-xs font-medium title-font font-serif">Category 4</h2>
           <h2 className="text-lg text-gray-900 font-medium title-font mb-4 ">Straight leg Jeans</h2>
-          <p className="leading-relaxed text-base ">Straight-leg jeans offer a timeless, relaxed fit that runs evenly from hip to hem, giving a classic silhouette. They are comfortable and versatile  for any casual or semi-formal occasion.</p>
+          <p className="leading-relaxed text-base ">Straightleg jeans offer a timeless, relaxed fit that runs evenly from hip to hem, giving a classic silhouette. They are comfortable and versatile  for any casual or semiformal occasion.</p>
           
         </div>
       </div>
