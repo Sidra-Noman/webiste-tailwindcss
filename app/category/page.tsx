@@ -39,7 +39,7 @@ const page = () => {
         <Image className="rounded  object-cover object-center mb-6" src="/images/slimfit.jpg" alt="slimfit" height={40} width={250}/>
           <h2 className="tracking-widest text-indigo-500 text-xs font-medium title-font font-serif">Category 3</h2>
           <h2 className="text-lg text-gray-900 font-medium title-font mb-4 ">Slimfit Jeans</h2>
-          <p className="leading-relaxed text-base ">Slim-fit jeans provide a modern, tailored look that’s snug yet comfortable from hip to ankle. Versatile and stylish, they’re perfect for both casual days and dressed-up nights.</p>
+          <p className="leading-relaxed text-base ">Slim-fit jeans provide a modern, tailored look that&apos;s snug yet comfortable from hip to ankle. Versatile and stylish, they&apos;re perfect for both casual days and dressed-up nights.</p>
         </div>
         </div>
         <div className="xl:w-1/4 md:w-1/2 p-4">
